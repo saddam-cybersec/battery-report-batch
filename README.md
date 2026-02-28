@@ -21,6 +21,7 @@ A simple batch script to automatically generate a **Windows battery report** wit
 > Running the script multiple times within the same minute will overwrite the previous report.
 
 ## How It Works
+battery-report-28-02-2026_14-35.html
 
 - Extracts current date and time from your system
 - Combines them with the folder path to create a unique filename
