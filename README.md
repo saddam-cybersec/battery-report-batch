@@ -1,4 +1,3 @@
-# battery-report-batch
 # Windows Battery Report Automation
 
 A simple batch script to automatically generate a **Windows battery report** with timestamped filenames.
